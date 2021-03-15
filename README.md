@@ -12,14 +12,12 @@ For this homework you will implement a two-layer neural network (i.e, one hidden
 
 
 ASSIGNMENT 3- Naive Bayes
-In this task you will implement naive Bayes classifiers based on Gaussians.
-You must implement a Matlab function or a Python executable file called naive_bayes that learns a naive Bayes classifier for a classification problem, given some training data and some additional options. In particular, your function can be invoked as follows:
+In this task you will implement naive Bayes classifiers based on Gaussians. You must implement a Matlab function or a Python executable file called naive_bayes that learns a naive Bayes classifier for a classification problem, given some training data and some additional options. In particular, your function can be invoked as follows:
   naive_bayes(<training_file>, <test_file>)
 If you use Python, just convert the Matlab function arguments to command-line arguments. The arguments provide to the function the following information:
 •	The first argument is the path name of the training file, where the training data is stored. The path name can specify any file stored on the local computer.
 •	The second argument is the path name of the test file, where the test data is stored. The path name can specify any file stored on the local computer.
-Both the training file and the test file are text files, containing data in tabular format. Each value is a number, and values are separated by white space. The i-th row and j-th column contain the value for the j-th feature of the i-th object. The only exception is the LAST column, that stores the class label for each object. Make sure you do not use data from the last column (i.e., the class labels) as attributes (features).
-The training and test files will follow the same format as the text files in the UCI datasets directory. A description of the datasets and the file format can be found on this link. For each dataset, a training file and a test file are provided. The name of each file indicates what dataset the file belongs to, and whether the file contains training or test data. Your code should also work with ANY OTHER training and test files using the same format as the files in the UCI datasets directory.
+Training and test files are taken from the UCI datasets directory. A description of the datasets and the file format can be found here: http://www.cs.pdx.edu/~doliotis/MachineLearningSummer2020/assignments/uci_datasets/dataset_description.html
 
 
 ASSIGNMENT 4- K-means clustering algorithm
