@@ -1,0 +1,18 @@
+{
+    "python.analysis.cacheFolderPath": ".vscode/settings.json",
+    "jupyter.languages": [
+
+        {
+            "languageId": "python",
+            "startupCode": [
+                "%matplotlib inline"
+            ],
+            "cellIdentificationPattern": "^(#\\s*%%|#\\s*\\<codecell\\>|#\\s*In\\[\\d*?\\]|#\\s*In\\[ \\])(.*)"
+        },
+        {
+            "languageId": "javascript",
+            "cellIdentificationPattern": "^(\\/\\/ %%|\\/\\/%%|\\/\\/ \\<codecell\\>|\\/\\/ In\\[\\d*?\\]|\\/\\/ In\\[ \\])(.*)"
+        }
+    ],
+    "python.dataScience.allowUnauthorizedRemoteConnection": true
+}

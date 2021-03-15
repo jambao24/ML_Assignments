@@ -1,0 +1,37 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS D:\PSU Courses\2020 stuff\ML\ass1>  & 'C:\Users\james\AppData\Local\Microsoft\WindowsApps\python.exe' 'c:\Users\james\.vscode\extensions\ms-python.python-2020.6.91350\pythonFiles\lib\python\debugpy\launcher' '50234' '--' 'd:\PSU Courses\2020 stuff\ML\ass1\mnist_perc.py'
+
+Training 0.00001
+
+
+Accuracy values per Epoch (0.00001): 
+[0.09923333 0.09971667 0.10035    0.10081667 0.10126667 0.1018
+ 0.10216667 0.10283333 0.10331667 0.10385    0.10425    0.1049
+ 0.10868333 0.10935    0.10991667 0.1105     0.111      0.11158333
+ 0.11215    0.11285    0.11331667 0.11376667 0.11435    0.11495
+ 0.11551667 0.11613333 0.11653333 0.11705    0.11748333 0.11835
+ 0.11895    0.11961667 0.1202     0.12071667 0.12126667 0.12181667
+ 0.12226667 0.12296667 0.12373333 0.12428333 0.12493333 0.12538333
+ 0.12603333 0.12668333]
+
+PS D:\PSU Courses\2020 stuff\ML\ass1>  cd 'd:\PSU Courses\2020 stuff\ML\ass1'; & 'C:\Users\james\AppData\Local\Microsoft\WindowsApps\python.exe' 'c:\Users\james\.vscode\extensions\ms-python.python-2020.6.91350\pythonFiles\lib\python\debugpy\launcher' '50353' '--' 'd:\PSU Courses\2020 stuff\ML\ass1\mnist_perc.py'
+
+Training 0.001
+
+
+Accuracy values per Epoch (0.001): 
+[0.10088333 0.16295    0.26525    0.4147     0.58368333 0.73151667
+ 0.84191667 0.91193333 0.95226667 0.97503333 0.98716667 0.9938
+ 0.99681667 0.99831667 0.99911667 0.99953333 0.99976667 0.99986667
+ 0.99993333 0.99993333 0.99996667 0.99996667 1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.        ]
+
+PS D:\PSU Courses\2020 stuff\ML\ass1> 

@@ -1,0 +1,101 @@
+PS C:\Users\james\OneDrive\Documents\ML\ass4>  & 'C:\Users\james\AppData\Local\Microsoft\WindowsApps\python.exe' 'c:\Users\james\.vscode\extensions\ms-python.python-2020.8.101144\pythonFiles\lib\python\debugpy\launcher' '52665' '--' 'c:\Users\james\OneDrive\Documents\ML\ass4\optdigits_kmeans.py'
+
+Confusion Matrix for Run 1:
+[[177   0   1   0   0   0   0   0   0   0]
+ [  0 147   5   0   7   0   1   0  19   1]
+ [  0  21 164   1   0   0   0   0   0   0]
+ [  0   3   3 168   0   4   0   0   4  37]
+ [  1   0   0   0 171   1   1   0   0   0]
+ [  0   1   0   1   0 175   2   0   2   2]
+ [  0   2   0   0   0   0 175   0   0   0]
+ [  0   0   2   6   2   0   0 173   1   4]
+ [  0   5   2   7   1   0   2   1 140   3]
+ [  0   3   0   0   0   2   0   5   8 133]]
+
+Accuracy for Run 1: 0.9031719532554258
+
+Confusion Matrix for Run 2: (2nd lowest avg MSE)
+[[177   0   1   0   0   0   2   0   0   1]
+ [  0  93   2   0   5   0   0   0  17   0]
+ [  0  21 168   1   0   0   0   0   0   0]
+ [  0   2   0 152   0   0   0   0   2   3]
+ [  1  54   2   0 164   1   0   0   3   8]
+ [  0   0   0   3   0 175   0   0   2   2]
+ [  0   2   0   0   1   0 176   0   1   0]
+ [  0   0   2   5   0   0   0 171   1   0]
+ [  0   8   1   6   0   0   3   1 141   3]
+ [  0   2   1  16  11   6   0   7   7 163]]
+
+Accuracy for Run 2: 0.8792431830829159
+
+Confusion Matrix for Run 3: (lowest avg MSE)
+[[177   0   0   0   0   0   0   0   0   0]
+ [  0  98   1   0   5   0   0   0  23   0]
+ [  0  20 172   2   0   0   0   0   0   0]
+ [  0   3   0 170   0   0   0   0   2  12]
+ [  1  53   2   0 172   1   0   1   4   8]
+ [  0   0   0   2   0 117   0   0   1  57]
+ [  0   2   0   1   1   4 180   0   3   0]
+ [  0   0   2   4   0   0   0 169   1   0]
+ [  0   3   0   4   3  56   1   3 131   5]
+ [  0   3   0   0   0   4   0   6   9  98]]
+
+Accuracy for Run 3: 0.8258208124652198
+
+Confusion Matrix for Run 4:
+[[177   0   1   0   0   0   2   0   0   1]
+ [  0 152   6   0   8   0   2   0  22   1]
+ [  0  20 158   2   0   0   0   0   0   0]
+ [  0   2   1 164   0   6   0   0   2  50]
+ [  1   0   0   0 157   1   1   0   0   5]
+ [  0   0   0   2   0 172   1   0   4   2]
+ [  0   3   0   0   0   0 173   0   1   0]
+ [  0   0   2   6   0   0   0 172   1   0]
+ [  0   2   9   6   2   0   2   2 138   3]
+ [  0   3   0   3  14   3   0   5   6 118]]
+
+Accuracy for Run 4: 0.8797996661101837
+
+Confusion Matrix for Run 5 
+[[177   0   0   0   0   0   0   0   0   1]
+ [  0  93   0   0   1   0   0   0  15   0]
+ [  0  38 121   0   2   0   1   0   5   0]
+ [  0   1  52 135   0   0   0   0   2   4]
+ [  1  45   2   0 175   1   0   1   2   3]
+ [  0   0   0   3   0 173   2   0   2   1]
+ [  0   1   0   0   0   1 176   0   1   0]
+ [  0   0   2   5   0   0   0 160   0   0]
+ [  0   1   0   8   0   0   2   1 138   2]
+ [  0   3   0  32   3   7   0  17   9 169]]
+
+Accuracy for Run 5: 0.8441847523650529
+
+PS C:\Users\james\OneDrive\Documents\ML\ass4> 
+
+
+-------------------------------------
+
+[Run 1] Iteration 31
+Average Mean Squared Error:  485.64558642656635
+Mean Squared Separation:  1478.0279003359371
+Average Entropy:  0.38400410760463727
+
+[Run 2] Iteration 26
+Average Mean Squared Error:  473.8782466863699
+Mean Squared Separation:  1544.779534881426
+Average Entropy:  0.3716759517125476
+
+[Run 3] Iteration 23
+Average Mean Squared Error:  470.5987665652052
+Mean Squared Separation:  1544.7313580116595
+Average Entropy:  0.4520679435799652
+
+[Run 4] Iteration 32
+Average Mean Squared Error:  478.18681958880853
+Mean Squared Separation:  1535.2975481224657
+Average Entropy:  0.43333220147189555
+
+[Run 5] Iteration 34
+Average Mean Squared Error:  475.5970038630779
+Mean Squared Separation:  1558.2027499706821
+Average Entropy:  0.41257207976379556

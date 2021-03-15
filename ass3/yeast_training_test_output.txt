@@ -1,0 +1,578 @@
+Class  1 , attribute  1 , mean =  0.52 , std =  0.10
+Class  1 , attribute  2 , mean =  0.54 , std =  0.10
+Class  1 , attribute  3 , mean =  0.52 , std =  0.07
+Class  1 , attribute  4 , mean =  0.41 , std =  0.17
+Class  1 , attribute  5 , mean =  0.50 , std =  0.01
+Class  1 , attribute  6 , mean =  0.00 , std =  0.01
+Class  1 , attribute  7 , mean =  0.50 , std =  0.05
+Class  1 , attribute  8 , mean =  0.24 , std =  0.05
+
+Class  2 , attribute  1 , mean =  0.45 , std =  0.11
+Class  2 , attribute  2 , mean =  0.45 , std =  0.10
+Class  2 , attribute  3 , mean =  0.53 , std =  0.06
+Class  2 , attribute  4 , mean =  0.23 , std =  0.11
+Class  2 , attribute  5 , mean =  0.50 , std =  0.04
+Class  2 , attribute  6 , mean =  0.00 , std =  0.01
+Class  2 , attribute  7 , mean =  0.49 , std =  0.06
+Class  2 , attribute  8 , mean =  0.33 , std =  0.14
+
+Class  3 , attribute  1 , mean =  0.43 , std =  0.10
+Class  3 , attribute  2 , mean =  0.48 , std =  0.11
+Class  3 , attribute  3 , mean =  0.36 , std =  0.06
+Class  3 , attribute  4 , mean =  0.22 , std =  0.08
+Class  3 , attribute  5 , mean =  0.51 , std =  0.05
+Class  3 , attribute  6 , mean =  0.00 , std =  0.01
+Class  3 , attribute  7 , mean =  0.51 , std =  0.04
+Class  3 , attribute  8 , mean =  0.27 , std =  0.09
+
+Class  4 , attribute  1 , mean =  0.79 , std =  0.07
+Class  4 , attribute  2 , mean =  0.76 , std =  0.07
+Class  4 , attribute  3 , mean =  0.38 , std =  0.06
+Class  4 , attribute  4 , mean =  0.32 , std =  0.11
+Class  4 , attribute  5 , mean =  0.50 , std =  0.01
+Class  4 , attribute  6 , mean =  0.00 , std =  0.01
+Class  4 , attribute  7 , mean =  0.51 , std =  0.07
+Class  4 , attribute  8 , mean =  0.27 , std =  0.09
+
+Class  5 , attribute  1 , mean =  0.74 , std =  0.15
+Class  5 , attribute  2 , mean =  0.62 , std =  0.12
+Class  5 , attribute  3 , mean =  0.42 , std =  0.08
+Class  5 , attribute  4 , mean =  0.30 , std =  0.12
+Class  5 , attribute  5 , mean =  0.50 , std =  0.01
+Class  5 , attribute  6 , mean =  0.00 , std =  0.01
+Class  5 , attribute  7 , mean =  0.51 , std =  0.06
+Class  5 , attribute  8 , mean =  0.24 , std =  0.04
+
+Class  6 , attribute  1 , mean =  0.54 , std =  0.14
+Class  6 , attribute  2 , mean =  0.50 , std =  0.12
+Class  6 , attribute  3 , mean =  0.51 , std =  0.05
+Class  6 , attribute  4 , mean =  0.24 , std =  0.10
+Class  6 , attribute  5 , mean =  0.50 , std =  0.01
+Class  6 , attribute  6 , mean =  0.49 , std =  0.38
+Class  6 , attribute  7 , mean =  0.51 , std =  0.03
+Class  6 , attribute  8 , mean =  0.24 , std =  0.05
+
+Class  7 , attribute  1 , mean =  0.48 , std =  0.11
+Class  7 , attribute  2 , mean =  0.47 , std =  0.09
+Class  7 , attribute  3 , mean =  0.54 , std =  0.06
+Class  7 , attribute  4 , mean =  0.22 , std =  0.12
+Class  7 , attribute  5 , mean =  0.50 , std =  0.04
+Class  7 , attribute  6 , mean =  0.00 , std =  0.03
+Class  7 , attribute  7 , mean =  0.50 , std =  0.06
+Class  7 , attribute  8 , mean =  0.26 , std =  0.09
+
+Class  8 , attribute  1 , mean =  0.74 , std =  0.10
+Class  8 , attribute  2 , mean =  0.73 , std =  0.11
+Class  8 , attribute  3 , mean =  0.49 , std =  0.05
+Class  8 , attribute  4 , mean =  0.29 , std =  0.07
+Class  8 , attribute  5 , mean =  0.50 , std =  0.01
+Class  8 , attribute  6 , mean =  0.00 , std =  0.01
+Class  8 , attribute  7 , mean =  0.46 , std =  0.08
+Class  8 , attribute  8 , mean =  0.23 , std =  0.02
+
+Class  9 , attribute  1 , mean =  0.55 , std =  0.14
+Class  9 , attribute  2 , mean =  0.56 , std =  0.15
+Class  9 , attribute  3 , mean =  0.51 , std =  0.06
+Class  9 , attribute  4 , mean =  0.20 , std =  0.06
+Class  9 , attribute  5 , mean =  0.50 , std =  0.01
+Class  9 , attribute  6 , mean =  0.00 , std =  0.01
+Class  9 , attribute  7 , mean =  0.53 , std =  0.05
+Class  9 , attribute  8 , mean =  0.24 , std =  0.04
+
+Class  10 , attribute  1 , mean =  0.78 , std =  0.05
+Class  10 , attribute  2 , mean =  0.73 , std =  0.11
+Class  10 , attribute  3 , mean =  0.48 , std =  0.09
+Class  10 , attribute  4 , mean =  0.33 , std =  0.06
+Class  10 , attribute  5 , mean =  1.00 , std =  0.01
+Class  10 , attribute  6 , mean =  0.00 , std =  0.01
+Class  10 , attribute  7 , mean =  0.55 , std =  0.02
+Class  10 , attribute  8 , mean =  0.23 , std =  0.01
+
+
+
+ID =  1 , predicted =  9 , probability =  13.54 , true =  1 , accuracy =  0.00
+ID =  2 , predicted =  9 , probability =  13.24 , true =  1 , accuracy =  0.00
+ID =  3 , predicted =  1 , probability =  12.98 , true =  1 , accuracy =  1.00
+ID =  4 , predicted =  5 , probability =  12.10 , true =  1 , accuracy =  0.00
+ID =  5 , predicted =  5 , probability =  12.13 , true =  1 , accuracy =  0.00
+ID =  6 , predicted =  1 , probability =  13.44 , true =  1 , accuracy =  1.00
+ID =  7 , predicted =  1 , probability =  9.88 , true =  1 , accuracy =  1.00
+ID =  8 , predicted =  9 , probability =  14.08 , true =  1 , accuracy =  0.00
+ID =  9 , predicted =  1 , probability =  12.81 , true =  1 , accuracy =  1.00
+ID =  10 , predicted =  6 , probability =  8.54 , true =  1 , accuracy =  0.00
+ID =  11 , predicted =  1 , probability =  13.94 , true =  1 , accuracy =  1.00
+ID =  12 , predicted =  1 , probability =  13.42 , true =  1 , accuracy =  1.00
+ID =  13 , predicted =  1 , probability =  13.93 , true =  1 , accuracy =  1.00
+ID =  14 , predicted =  1 , probability =  8.15 , true =  1 , accuracy =  1.00
+ID =  15 , predicted =  9 , probability =  14.17 , true =  1 , accuracy =  0.00
+ID =  16 , predicted =  1 , probability =  12.26 , true =  1 , accuracy =  1.00
+ID =  17 , predicted =  1 , probability =  11.18 , true =  1 , accuracy =  1.00
+ID =  18 , predicted =  3 , probability =  12.03 , true =  1 , accuracy =  0.00
+ID =  19 , predicted =  1 , probability =  14.10 , true =  1 , accuracy =  1.00
+ID =  20 , predicted =  1 , probability =  13.17 , true =  1 , accuracy =  1.00
+ID =  21 , predicted =  8 , probability =  13.57 , true =  1 , accuracy =  0.00
+ID =  22 , predicted =  1 , probability =  13.40 , true =  1 , accuracy =  1.00
+ID =  23 , predicted =  1 , probability =  13.64 , true =  1 , accuracy =  1.00
+ID =  24 , predicted =  9 , probability =  14.47 , true =  1 , accuracy =  0.00
+ID =  25 , predicted =  8 , probability =  13.27 , true =  1 , accuracy =  0.00
+ID =  26 , predicted =  1 , probability =  11.72 , true =  1 , accuracy =  1.00
+ID =  27 , predicted =  9 , probability =  13.50 , true =  1 , accuracy =  0.00
+ID =  28 , predicted =  1 , probability =  12.86 , true =  1 , accuracy =  1.00
+ID =  29 , predicted =  1 , probability =  12.72 , true =  1 , accuracy =  1.00
+ID =  30 , predicted =  1 , probability =  13.85 , true =  1 , accuracy =  1.00
+ID =  31 , predicted =  1 , probability =  12.80 , true =  1 , accuracy =  1.00
+ID =  32 , predicted =  6 , probability =  10.89 , true =  1 , accuracy =  0.00
+ID =  33 , predicted =  9 , probability =  13.56 , true =  1 , accuracy =  0.00
+ID =  34 , predicted =  6 , probability =  6.24 , true =  1 , accuracy =  0.00
+ID =  35 , predicted =  9 , probability =  13.30 , true =  1 , accuracy =  0.00
+ID =  36 , predicted =  1 , probability =  13.34 , true =  1 , accuracy =  1.00
+ID =  37 , predicted =  9 , probability =  13.85 , true =  1 , accuracy =  0.00
+ID =  38 , predicted =  1 , probability =  12.95 , true =  1 , accuracy =  1.00
+ID =  39 , predicted =  1 , probability =  13.61 , true =  1 , accuracy =  1.00
+ID =  40 , predicted =  1 , probability =  13.64 , true =  1 , accuracy =  1.00
+ID =  41 , predicted =  1 , probability =  12.44 , true =  1 , accuracy =  1.00
+ID =  42 , predicted =  1 , probability =  11.98 , true =  1 , accuracy =  1.00
+ID =  43 , predicted =  1 , probability =  14.16 , true =  1 , accuracy =  1.00
+ID =  44 , predicted =  1 , probability =  11.53 , true =  1 , accuracy =  1.00
+ID =  45 , predicted =  1 , probability =  13.56 , true =  1 , accuracy =  1.00
+ID =  46 , predicted =  9 , probability =  12.12 , true =  1 , accuracy =  0.00
+ID =  47 , predicted =  1 , probability =  13.11 , true =  1 , accuracy =  1.00
+ID =  48 , predicted =  1 , probability =  12.99 , true =  1 , accuracy =  1.00
+ID =  49 , predicted =  1 , probability =  12.00 , true =  1 , accuracy =  1.00
+ID =  50 , predicted =  1 , probability =  13.21 , true =  1 , accuracy =  1.00
+ID =  51 , predicted =  9 , probability =  10.91 , true =  1 , accuracy =  0.00
+ID =  52 , predicted =  2 , probability =  11.61 , true =  1 , accuracy =  0.00
+ID =  53 , predicted =  1 , probability =  13.98 , true =  1 , accuracy =  1.00
+ID =  54 , predicted =  1 , probability =  10.81 , true =  1 , accuracy =  1.00
+ID =  55 , predicted =  1 , probability =  12.79 , true =  1 , accuracy =  1.00
+ID =  56 , predicted =  1 , probability =  7.72 , true =  1 , accuracy =  1.00
+ID =  57 , predicted =  1 , probability =  14.06 , true =  1 , accuracy =  1.00
+ID =  58 , predicted =  5 , probability =  13.39 , true =  1 , accuracy =  0.00
+ID =  59 , predicted =  1 , probability =  13.54 , true =  1 , accuracy =  1.00
+ID =  60 , predicted =  9 , probability =  8.54 , true =  1 , accuracy =  0.00
+ID =  61 , predicted =  1 , probability =  13.60 , true =  1 , accuracy =  1.00
+ID =  62 , predicted =  1 , probability =  13.03 , true =  1 , accuracy =  1.00
+ID =  63 , predicted =  9 , probability =  13.30 , true =  1 , accuracy =  0.00
+ID =  64 , predicted =  1 , probability =  12.57 , true =  1 , accuracy =  1.00
+ID =  65 , predicted =  1 , probability =  13.62 , true =  1 , accuracy =  1.00
+ID =  66 , predicted =  1 , probability =  13.47 , true =  1 , accuracy =  1.00
+ID =  67 , predicted =  2 , probability =  5.65 , true =  1 , accuracy =  0.00
+ID =  68 , predicted =  9 , probability =  11.29 , true =  1 , accuracy =  0.00
+ID =  69 , predicted =  9 , probability =  13.59 , true =  1 , accuracy =  0.00
+ID =  70 , predicted =  9 , probability =  13.26 , true =  1 , accuracy =  0.00
+ID =  71 , predicted =  2 , probability =  9.05 , true =  1 , accuracy =  0.00
+ID =  72 , predicted =  5 , probability =  13.91 , true =  1 , accuracy =  0.00
+ID =  73 , predicted =  5 , probability =  11.41 , true =  1 , accuracy =  0.00
+ID =  74 , predicted =  9 , probability =  13.99 , true =  1 , accuracy =  0.00
+ID =  75 , predicted =  1 , probability =  8.85 , true =  1 , accuracy =  1.00
+ID =  76 , predicted =  1 , probability =  10.30 , true =  2 , accuracy =  0.00
+ID =  77 , predicted =  9 , probability =  14.04 , true =  2 , accuracy =  0.00
+ID =  78 , predicted =  2 , probability =  11.76 , true =  2 , accuracy =  1.00
+ID =  79 , predicted =  9 , probability =  11.23 , true =  2 , accuracy =  0.00
+ID =  80 , predicted =  2 , probability =  11.86 , true =  2 , accuracy =  1.00
+ID =  81 , predicted =  9 , probability =  10.55 , true =  2 , accuracy =  0.00
+ID =  82 , predicted =  2 , probability =  10.08 , true =  2 , accuracy =  1.00
+ID =  83 , predicted =  2 , probability =  9.64 , true =  2 , accuracy =  1.00
+ID =  84 , predicted =  2 , probability =  4.30 , true =  2 , accuracy =  1.00
+ID =  85 , predicted =  2 , probability =  8.72 , true =  2 , accuracy =  1.00
+ID =  86 , predicted =  9 , probability =  12.31 , true =  2 , accuracy =  0.00
+ID =  87 , predicted =  5 , probability =  13.06 , true =  2 , accuracy =  0.00
+ID =  88 , predicted =  7 , probability =  -6.48 , true =  2 , accuracy =  0.00
+ID =  89 , predicted =  7 , probability =  8.83 , true =  2 , accuracy =  0.00
+ID =  90 , predicted =  3 , probability =  10.42 , true =  2 , accuracy =  0.00
+ID =  91 , predicted =  1 , probability =  11.38 , true =  2 , accuracy =  0.00
+ID =  92 , predicted =  3 , probability =  11.97 , true =  2 , accuracy =  0.00
+ID =  93 , predicted =  2 , probability =  11.75 , true =  2 , accuracy =  1.00
+ID =  94 , predicted =  2 , probability =  7.62 , true =  2 , accuracy =  1.00
+ID =  95 , predicted =  1 , probability =  12.18 , true =  2 , accuracy =  0.00
+ID =  96 , predicted =  2 , probability =  10.13 , true =  2 , accuracy =  1.00
+ID =  97 , predicted =  1 , probability =  10.41 , true =  2 , accuracy =  0.00
+ID =  98 , predicted =  2 , probability =  2.96 , true =  2 , accuracy =  1.00
+ID =  99 , predicted =  1 , probability =  13.81 , true =  2 , accuracy =  0.00
+ID =  100 , predicted =  3 , probability =  11.15 , true =  2 , accuracy =  0.00
+ID =  101 , predicted =  1 , probability =  12.58 , true =  2 , accuracy =  0.00
+ID =  102 , predicted =  2 , probability =  10.35 , true =  2 , accuracy =  1.00
+ID =  103 , predicted =  9 , probability =  11.38 , true =  2 , accuracy =  0.00
+ID =  104 , predicted =  2 , probability =  11.59 , true =  2 , accuracy =  1.00
+ID =  105 , predicted =  8 , probability =  14.49 , true =  2 , accuracy =  0.00
+ID =  106 , predicted =  9 , probability =  13.29 , true =  2 , accuracy =  0.00
+ID =  107 , predicted =  9 , probability =  14.06 , true =  2 , accuracy =  0.00
+ID =  108 , predicted =  9 , probability =  11.82 , true =  2 , accuracy =  0.00
+ID =  109 , predicted =  1 , probability =  12.07 , true =  2 , accuracy =  0.00
+ID =  110 , predicted =  9 , probability =  12.62 , true =  2 , accuracy =  0.00
+ID =  111 , predicted =  9 , probability =  12.01 , true =  2 , accuracy =  0.00
+ID =  112 , predicted =  9 , probability =  13.51 , true =  2 , accuracy =  0.00
+ID =  113 , predicted =  2 , probability =  -24.16 , true =  2 , accuracy =  1.00
+ID =  114 , predicted =  9 , probability =  13.77 , true =  2 , accuracy =  0.00
+ID =  115 , predicted =  9 , probability =  14.65 , true =  2 , accuracy =  0.00
+ID =  116 , predicted =  2 , probability =  11.43 , true =  2 , accuracy =  1.00
+ID =  117 , predicted =  2 , probability =  10.76 , true =  2 , accuracy =  1.00
+ID =  118 , predicted =  9 , probability =  13.54 , true =  2 , accuracy =  0.00
+ID =  119 , predicted =  2 , probability =  7.07 , true =  2 , accuracy =  1.00
+ID =  120 , predicted =  9 , probability =  11.62 , true =  2 , accuracy =  0.00
+ID =  121 , predicted =  9 , probability =  5.96 , true =  2 , accuracy =  0.00
+ID =  122 , predicted =  2 , probability =  8.65 , true =  2 , accuracy =  1.00
+ID =  123 , predicted =  9 , probability =  9.06 , true =  2 , accuracy =  0.00
+ID =  124 , predicted =  2 , probability =  11.88 , true =  2 , accuracy =  1.00
+ID =  125 , predicted =  9 , probability =  11.85 , true =  2 , accuracy =  0.00
+ID =  126 , predicted =  9 , probability =  12.93 , true =  2 , accuracy =  0.00
+ID =  127 , predicted =  9 , probability =  12.78 , true =  2 , accuracy =  0.00
+ID =  128 , predicted =  2 , probability =  10.62 , true =  2 , accuracy =  1.00
+ID =  129 , predicted =  2 , probability =  10.52 , true =  2 , accuracy =  1.00
+ID =  130 , predicted =  2 , probability =  6.76 , true =  2 , accuracy =  1.00
+ID =  131 , predicted =  9 , probability =  13.03 , true =  2 , accuracy =  0.00
+ID =  132 , predicted =  1 , probability =  10.77 , true =  2 , accuracy =  0.00
+ID =  133 , predicted =  1 , probability =  8.26 , true =  2 , accuracy =  0.00
+ID =  134 , predicted =  2 , probability =  11.72 , true =  2 , accuracy =  1.00
+ID =  135 , predicted =  9 , probability =  13.01 , true =  2 , accuracy =  0.00
+ID =  136 , predicted =  9 , probability =  12.54 , true =  2 , accuracy =  0.00
+ID =  137 , predicted =  9 , probability =  13.46 , true =  2 , accuracy =  0.00
+ID =  138 , predicted =  9 , probability =  13.05 , true =  2 , accuracy =  0.00
+ID =  139 , predicted =  7 , probability =  -5.37 , true =  2 , accuracy =  0.00
+ID =  140 , predicted =  2 , probability =  11.05 , true =  2 , accuracy =  1.00
+ID =  141 , predicted =  9 , probability =  3.90 , true =  2 , accuracy =  0.00
+ID =  142 , predicted =  9 , probability =  14.08 , true =  2 , accuracy =  0.00
+ID =  143 , predicted =  2 , probability =  3.19 , true =  2 , accuracy =  1.00
+ID =  144 , predicted =  9 , probability =  11.68 , true =  2 , accuracy =  0.00
+ID =  145 , predicted =  9 , probability =  12.94 , true =  2 , accuracy =  0.00
+ID =  146 , predicted =  9 , probability =  9.55 , true =  2 , accuracy =  0.00
+ID =  147 , predicted =  2 , probability =  11.26 , true =  2 , accuracy =  1.00
+ID =  148 , predicted =  2 , probability =  9.77 , true =  2 , accuracy =  1.00
+ID =  149 , predicted =  9 , probability =  13.62 , true =  2 , accuracy =  0.00
+ID =  150 , predicted =  9 , probability =  11.41 , true =  2 , accuracy =  0.00
+ID =  151 , predicted =  2 , probability =  6.90 , true =  2 , accuracy =  1.00
+ID =  152 , predicted =  9 , probability =  11.20 , true =  2 , accuracy =  0.00
+ID =  153 , predicted =  9 , probability =  -21.78 , true =  2 , accuracy =  0.00
+ID =  154 , predicted =  2 , probability =  10.69 , true =  2 , accuracy =  1.00
+ID =  155 , predicted =  9 , probability =  13.21 , true =  2 , accuracy =  0.00
+ID =  156 , predicted =  9 , probability =  12.76 , true =  2 , accuracy =  0.00
+ID =  157 , predicted =  9 , probability =  12.38 , true =  2 , accuracy =  0.00
+ID =  158 , predicted =  9 , probability =  12.40 , true =  2 , accuracy =  0.00
+ID =  159 , predicted =  9 , probability =  11.85 , true =  2 , accuracy =  0.00
+ID =  160 , predicted =  2 , probability =  10.83 , true =  2 , accuracy =  1.00
+ID =  161 , predicted =  9 , probability =  11.63 , true =  2 , accuracy =  0.00
+ID =  162 , predicted =  2 , probability =  10.13 , true =  2 , accuracy =  1.00
+ID =  163 , predicted =  9 , probability =  13.14 , true =  2 , accuracy =  0.00
+ID =  164 , predicted =  2 , probability =  12.06 , true =  2 , accuracy =  1.00
+ID =  165 , predicted =  9 , probability =  14.44 , true =  2 , accuracy =  0.00
+ID =  166 , predicted =  9 , probability =  12.73 , true =  2 , accuracy =  0.00
+ID =  167 , predicted =  2 , probability =  10.25 , true =  2 , accuracy =  1.00
+ID =  168 , predicted =  9 , probability =  9.92 , true =  2 , accuracy =  0.00
+ID =  169 , predicted =  1 , probability =  12.80 , true =  2 , accuracy =  0.00
+ID =  170 , predicted =  2 , probability =  11.52 , true =  2 , accuracy =  1.00
+ID =  171 , predicted =  2 , probability =  9.53 , true =  2 , accuracy =  1.00
+ID =  172 , predicted =  9 , probability =  13.26 , true =  2 , accuracy =  0.00
+ID =  173 , predicted =  9 , probability =  12.74 , true =  2 , accuracy =  0.00
+ID =  174 , predicted =  2 , probability =  5.32 , true =  2 , accuracy =  1.00
+ID =  175 , predicted =  9 , probability =  11.56 , true =  2 , accuracy =  0.00
+ID =  176 , predicted =  1 , probability =  12.79 , true =  2 , accuracy =  0.00
+ID =  177 , predicted =  8 , probability =  14.31 , true =  2 , accuracy =  0.00
+ID =  178 , predicted =  2 , probability =  4.98 , true =  2 , accuracy =  1.00
+ID =  179 , predicted =  9 , probability =  13.55 , true =  2 , accuracy =  0.00
+ID =  180 , predicted =  9 , probability =  12.98 , true =  2 , accuracy =  0.00
+ID =  181 , predicted =  9 , probability =  12.53 , true =  2 , accuracy =  0.00
+ID =  182 , predicted =  9 , probability =  13.46 , true =  2 , accuracy =  0.00
+ID =  183 , predicted =  1 , probability =  13.01 , true =  2 , accuracy =  0.00
+ID =  184 , predicted =  2 , probability =  8.36 , true =  2 , accuracy =  1.00
+ID =  185 , predicted =  9 , probability =  12.99 , true =  2 , accuracy =  0.00
+ID =  186 , predicted =  9 , probability =  13.50 , true =  2 , accuracy =  0.00
+ID =  187 , predicted =  9 , probability =  11.47 , true =  2 , accuracy =  0.00
+ID =  188 , predicted =  9 , probability =  12.98 , true =  2 , accuracy =  0.00
+ID =  189 , predicted =  2 , probability =  10.44 , true =  2 , accuracy =  1.00
+ID =  190 , predicted =  2 , probability =  9.95 , true =  2 , accuracy =  1.00
+ID =  191 , predicted =  9 , probability =  13.88 , true =  2 , accuracy =  0.00
+ID =  192 , predicted =  9 , probability =  12.98 , true =  2 , accuracy =  0.00
+ID =  193 , predicted =  9 , probability =  10.29 , true =  2 , accuracy =  0.00
+ID =  194 , predicted =  9 , probability =  11.17 , true =  2 , accuracy =  0.00
+ID =  195 , predicted =  1 , probability =  8.59 , true =  2 , accuracy =  0.00
+ID =  196 , predicted =  1 , probability =  9.20 , true =  2 , accuracy =  0.00
+ID =  197 , predicted =  2 , probability =  11.64 , true =  2 , accuracy =  1.00
+ID =  198 , predicted =  9 , probability =  8.14 , true =  2 , accuracy =  0.00
+ID =  199 , predicted =  2 , probability =  8.80 , true =  2 , accuracy =  1.00
+ID =  200 , predicted =  9 , probability =  0.87 , true =  2 , accuracy =  0.00
+ID =  201 , predicted =  9 , probability =  13.57 , true =  2 , accuracy =  0.00
+ID =  202 , predicted =  1 , probability =  11.01 , true =  2 , accuracy =  0.00
+ID =  203 , predicted =  9 , probability =  12.84 , true =  2 , accuracy =  0.00
+ID =  204 , predicted =  2 , probability =  4.27 , true =  2 , accuracy =  1.00
+ID =  205 , predicted =  9 , probability =  11.55 , true =  2 , accuracy =  0.00
+ID =  206 , predicted =  2 , probability =  10.11 , true =  2 , accuracy =  1.00
+ID =  207 , predicted =  2 , probability =  9.87 , true =  2 , accuracy =  1.00
+ID =  208 , predicted =  1 , probability =  11.34 , true =  2 , accuracy =  0.00
+ID =  209 , predicted =  1 , probability =  14.05 , true =  2 , accuracy =  0.00
+ID =  210 , predicted =  9 , probability =  12.90 , true =  3 , accuracy =  0.00
+ID =  211 , predicted =  3 , probability =  12.49 , true =  3 , accuracy =  1.00
+ID =  212 , predicted =  3 , probability =  11.39 , true =  3 , accuracy =  1.00
+ID =  213 , predicted =  3 , probability =  9.11 , true =  3 , accuracy =  1.00
+ID =  214 , predicted =  3 , probability =  11.76 , true =  3 , accuracy =  1.00
+ID =  215 , predicted =  2 , probability =  11.34 , true =  3 , accuracy =  0.00
+ID =  216 , predicted =  3 , probability =  11.63 , true =  3 , accuracy =  1.00
+ID =  217 , predicted =  3 , probability =  12.83 , true =  3 , accuracy =  1.00
+ID =  218 , predicted =  9 , probability =  11.60 , true =  3 , accuracy =  0.00
+ID =  219 , predicted =  1 , probability =  13.10 , true =  3 , accuracy =  0.00
+ID =  220 , predicted =  9 , probability =  13.03 , true =  3 , accuracy =  0.00
+ID =  221 , predicted =  3 , probability =  12.67 , true =  3 , accuracy =  1.00
+ID =  222 , predicted =  3 , probability =  9.24 , true =  3 , accuracy =  1.00
+ID =  223 , predicted =  3 , probability =  12.13 , true =  3 , accuracy =  1.00
+ID =  224 , predicted =  3 , probability =  11.92 , true =  3 , accuracy =  1.00
+ID =  225 , predicted =  3 , probability =  9.54 , true =  3 , accuracy =  1.00
+ID =  226 , predicted =  3 , probability =  13.01 , true =  3 , accuracy =  1.00
+ID =  227 , predicted =  5 , probability =  12.46 , true =  3 , accuracy =  0.00
+ID =  228 , predicted =  9 , probability =  12.84 , true =  3 , accuracy =  0.00
+ID =  229 , predicted =  3 , probability =  12.72 , true =  3 , accuracy =  1.00
+ID =  230 , predicted =  2 , probability =  9.42 , true =  3 , accuracy =  0.00
+ID =  231 , predicted =  3 , probability =  12.23 , true =  3 , accuracy =  1.00
+ID =  232 , predicted =  3 , probability =  11.66 , true =  3 , accuracy =  1.00
+ID =  233 , predicted =  3 , probability =  13.03 , true =  3 , accuracy =  1.00
+ID =  234 , predicted =  9 , probability =  13.38 , true =  3 , accuracy =  0.00
+ID =  235 , predicted =  9 , probability =  11.71 , true =  3 , accuracy =  0.00
+ID =  236 , predicted =  3 , probability =  11.62 , true =  3 , accuracy =  1.00
+ID =  237 , predicted =  3 , probability =  12.76 , true =  3 , accuracy =  1.00
+ID =  238 , predicted =  3 , probability =  10.86 , true =  3 , accuracy =  1.00
+ID =  239 , predicted =  5 , probability =  11.68 , true =  3 , accuracy =  0.00
+ID =  240 , predicted =  5 , probability =  11.37 , true =  3 , accuracy =  0.00
+ID =  241 , predicted =  9 , probability =  12.56 , true =  3 , accuracy =  0.00
+ID =  242 , predicted =  3 , probability =  12.28 , true =  3 , accuracy =  1.00
+ID =  243 , predicted =  3 , probability =  13.07 , true =  3 , accuracy =  1.00
+ID =  244 , predicted =  5 , probability =  11.50 , true =  3 , accuracy =  0.00
+ID =  245 , predicted =  9 , probability =  12.81 , true =  3 , accuracy =  0.00
+ID =  246 , predicted =  3 , probability =  12.46 , true =  3 , accuracy =  1.00
+ID =  247 , predicted =  3 , probability =  11.80 , true =  3 , accuracy =  1.00
+ID =  248 , predicted =  3 , probability =  12.32 , true =  3 , accuracy =  1.00
+ID =  249 , predicted =  3 , probability =  10.06 , true =  3 , accuracy =  1.00
+ID =  250 , predicted =  3 , probability =  11.72 , true =  3 , accuracy =  1.00
+ID =  251 , predicted =  3 , probability =  13.10 , true =  3 , accuracy =  1.00
+ID =  252 , predicted =  9 , probability =  11.73 , true =  3 , accuracy =  0.00
+ID =  253 , predicted =  3 , probability =  12.09 , true =  3 , accuracy =  1.00
+ID =  254 , predicted =  3 , probability =  8.18 , true =  3 , accuracy =  1.00
+ID =  255 , predicted =  3 , probability =  12.70 , true =  3 , accuracy =  1.00
+ID =  256 , predicted =  3 , probability =  12.12 , true =  3 , accuracy =  1.00
+ID =  257 , predicted =  9 , probability =  11.69 , true =  3 , accuracy =  0.00
+ID =  258 , predicted =  3 , probability =  6.22 , true =  3 , accuracy =  1.00
+ID =  259 , predicted =  9 , probability =  10.50 , true =  3 , accuracy =  0.00
+ID =  260 , predicted =  3 , probability =  10.68 , true =  3 , accuracy =  1.00
+ID =  261 , predicted =  2 , probability =  8.01 , true =  3 , accuracy =  0.00
+ID =  262 , predicted =  9 , probability =  11.17 , true =  3 , accuracy =  0.00
+ID =  263 , predicted =  1 , probability =  9.82 , true =  3 , accuracy =  0.00
+ID =  264 , predicted =  5 , probability =  11.09 , true =  3 , accuracy =  0.00
+ID =  265 , predicted =  3 , probability =  6.14 , true =  3 , accuracy =  1.00
+ID =  266 , predicted =  5 , probability =  13.75 , true =  3 , accuracy =  0.00
+ID =  267 , predicted =  2 , probability =  8.33 , true =  3 , accuracy =  0.00
+ID =  268 , predicted =  9 , probability =  13.23 , true =  3 , accuracy =  0.00
+ID =  269 , predicted =  4 , probability =  8.33 , true =  3 , accuracy =  0.00
+ID =  270 , predicted =  3 , probability =  12.25 , true =  3 , accuracy =  1.00
+ID =  271 , predicted =  5 , probability =  12.47 , true =  3 , accuracy =  0.00
+ID =  272 , predicted =  3 , probability =  10.54 , true =  3 , accuracy =  1.00
+ID =  273 , predicted =  3 , probability =  12.09 , true =  3 , accuracy =  1.00
+ID =  274 , predicted =  3 , probability =  13.30 , true =  3 , accuracy =  1.00
+ID =  275 , predicted =  3 , probability =  12.58 , true =  3 , accuracy =  1.00
+ID =  276 , predicted =  3 , probability =  11.38 , true =  3 , accuracy =  1.00
+ID =  277 , predicted =  8 , probability =  15.09 , true =  4 , accuracy =  0.00
+ID =  278 , predicted =  4 , probability =  12.92 , true =  4 , accuracy =  1.00
+ID =  279 , predicted =  4 , probability =  13.49 , true =  4 , accuracy =  1.00
+ID =  280 , predicted =  4 , probability =  12.92 , true =  4 , accuracy =  1.00
+ID =  281 , predicted =  4 , probability =  13.75 , true =  4 , accuracy =  1.00
+ID =  282 , predicted =  8 , probability =  14.13 , true =  4 , accuracy =  0.00
+ID =  283 , predicted =  4 , probability =  10.70 , true =  4 , accuracy =  1.00
+ID =  284 , predicted =  4 , probability =  1.65 , true =  4 , accuracy =  1.00
+ID =  285 , predicted =  8 , probability =  14.94 , true =  4 , accuracy =  0.00
+ID =  286 , predicted =  4 , probability =  13.61 , true =  4 , accuracy =  1.00
+ID =  287 , predicted =  4 , probability =  13.32 , true =  4 , accuracy =  1.00
+ID =  288 , predicted =  4 , probability =  14.13 , true =  4 , accuracy =  1.00
+ID =  289 , predicted =  5 , probability =  10.96 , true =  5 , accuracy =  1.00
+ID =  290 , predicted =  9 , probability =  11.18 , true =  5 , accuracy =  0.00
+ID =  291 , predicted =  5 , probability =  11.41 , true =  5 , accuracy =  1.00
+ID =  292 , predicted =  9 , probability =  13.13 , true =  5 , accuracy =  0.00
+ID =  293 , predicted =  5 , probability =  13.03 , true =  5 , accuracy =  1.00
+ID =  294 , predicted =  5 , probability =  13.07 , true =  5 , accuracy =  1.00
+ID =  295 , predicted =  5 , probability =  13.47 , true =  5 , accuracy =  1.00
+ID =  296 , predicted =  4 , probability =  14.21 , true =  5 , accuracy =  0.00
+ID =  297 , predicted =  5 , probability =  12.84 , true =  5 , accuracy =  1.00
+ID =  298 , predicted =  5 , probability =  9.23 , true =  5 , accuracy =  1.00
+ID =  299 , predicted =  2 , probability =  6.69 , true =  5 , accuracy =  0.00
+ID =  300 , predicted =  5 , probability =  4.71 , true =  5 , accuracy =  1.00
+ID =  301 , predicted =  5 , probability =  12.78 , true =  5 , accuracy =  1.00
+ID =  302 , predicted =  9 , probability =  11.96 , true =  5 , accuracy =  0.00
+ID =  303 , predicted =  10 , probability =  -16.93 , true =  5 , accuracy =  0.00
+ID =  304 , predicted =  5 , probability =  13.81 , true =  5 , accuracy =  1.00
+ID =  305 , predicted =  9 , probability =  13.07 , true =  6 , accuracy =  0.00
+ID =  306 , predicted =  6 , probability =  10.96 , true =  6 , accuracy =  1.00
+ID =  307 , predicted =  5 , probability =  10.80 , true =  6 , accuracy =  0.00
+ID =  308 , predicted =  6 , probability =  7.79 , true =  6 , accuracy =  1.00
+ID =  309 , predicted =  1 , probability =  12.58 , true =  6 , accuracy =  0.00
+ID =  310 , predicted =  1 , probability =  13.65 , true =  6 , accuracy =  0.00
+ID =  311 , predicted =  9 , probability =  14.23 , true =  7 , accuracy =  0.00
+ID =  312 , predicted =  1 , probability =  5.87 , true =  7 , accuracy =  0.00
+ID =  313 , predicted =  9 , probability =  13.96 , true =  7 , accuracy =  0.00
+ID =  314 , predicted =  1 , probability =  10.02 , true =  7 , accuracy =  0.00
+ID =  315 , predicted =  1 , probability =  13.42 , true =  7 , accuracy =  0.00
+ID =  316 , predicted =  2 , probability =  10.65 , true =  7 , accuracy =  0.00
+ID =  317 , predicted =  9 , probability =  13.78 , true =  7 , accuracy =  0.00
+ID =  318 , predicted =  9 , probability =  13.96 , true =  7 , accuracy =  0.00
+ID =  319 , predicted =  9 , probability =  14.10 , true =  7 , accuracy =  0.00
+ID =  320 , predicted =  2 , probability =  7.26 , true =  7 , accuracy =  0.00
+ID =  321 , predicted =  1 , probability =  7.62 , true =  7 , accuracy =  0.00
+ID =  322 , predicted =  2 , probability =  7.64 , true =  7 , accuracy =  0.00
+ID =  323 , predicted =  9 , probability =  14.16 , true =  7 , accuracy =  0.00
+ID =  324 , predicted =  1 , probability =  10.88 , true =  7 , accuracy =  0.00
+ID =  325 , predicted =  8 , probability =  13.82 , true =  7 , accuracy =  0.00
+ID =  326 , predicted =  1 , probability =  7.19 , true =  7 , accuracy =  0.00
+ID =  327 , predicted =  9 , probability =  13.75 , true =  7 , accuracy =  0.00
+ID =  328 , predicted =  9 , probability =  13.54 , true =  7 , accuracy =  0.00
+ID =  329 , predicted =  9 , probability =  13.89 , true =  7 , accuracy =  0.00
+ID =  330 , predicted =  2 , probability =  11.50 , true =  7 , accuracy =  0.00
+ID =  331 , predicted =  2 , probability =  9.78 , true =  7 , accuracy =  0.00
+ID =  332 , predicted =  9 , probability =  13.20 , true =  7 , accuracy =  0.00
+ID =  333 , predicted =  9 , probability =  13.69 , true =  7 , accuracy =  0.00
+ID =  334 , predicted =  9 , probability =  11.12 , true =  7 , accuracy =  0.00
+ID =  335 , predicted =  9 , probability =  12.34 , true =  7 , accuracy =  0.00
+ID =  336 , predicted =  2 , probability =  11.27 , true =  7 , accuracy =  0.00
+ID =  337 , predicted =  9 , probability =  14.34 , true =  7 , accuracy =  0.00
+ID =  338 , predicted =  9 , probability =  12.94 , true =  7 , accuracy =  0.00
+ID =  339 , predicted =  9 , probability =  14.59 , true =  7 , accuracy =  0.00
+ID =  340 , predicted =  9 , probability =  14.59 , true =  7 , accuracy =  0.00
+ID =  341 , predicted =  2 , probability =  7.04 , true =  7 , accuracy =  0.00
+ID =  342 , predicted =  1 , probability =  7.95 , true =  7 , accuracy =  0.00
+ID =  343 , predicted =  9 , probability =  13.23 , true =  7 , accuracy =  0.00
+ID =  344 , predicted =  9 , probability =  12.22 , true =  7 , accuracy =  0.00
+ID =  345 , predicted =  1 , probability =  13.82 , true =  7 , accuracy =  0.00
+ID =  346 , predicted =  1 , probability =  12.91 , true =  7 , accuracy =  0.00
+ID =  347 , predicted =  2 , probability =  10.70 , true =  7 , accuracy =  0.00
+ID =  348 , predicted =  9 , probability =  13.66 , true =  7 , accuracy =  0.00
+ID =  349 , predicted =  9 , probability =  13.67 , true =  7 , accuracy =  0.00
+ID =  350 , predicted =  9 , probability =  12.54 , true =  7 , accuracy =  0.00
+ID =  351 , predicted =  2 , probability =  6.45 , true =  7 , accuracy =  0.00
+ID =  352 , predicted =  9 , probability =  13.50 , true =  7 , accuracy =  0.00
+ID =  353 , predicted =  9 , probability =  11.44 , true =  7 , accuracy =  0.00
+ID =  354 , predicted =  9 , probability =  13.22 , true =  7 , accuracy =  0.00
+ID =  355 , predicted =  9 , probability =  12.88 , true =  7 , accuracy =  0.00
+ID =  356 , predicted =  9 , probability =  14.58 , true =  7 , accuracy =  0.00
+ID =  357 , predicted =  9 , probability =  13.82 , true =  7 , accuracy =  0.00
+ID =  358 , predicted =  9 , probability =  13.36 , true =  7 , accuracy =  0.00
+ID =  359 , predicted =  1 , probability =  11.48 , true =  7 , accuracy =  0.00
+ID =  360 , predicted =  7 , probability =  9.04 , true =  7 , accuracy =  1.00
+ID =  361 , predicted =  9 , probability =  12.22 , true =  7 , accuracy =  0.00
+ID =  362 , predicted =  9 , probability =  12.31 , true =  7 , accuracy =  0.00
+ID =  363 , predicted =  9 , probability =  13.36 , true =  7 , accuracy =  0.00
+ID =  364 , predicted =  9 , probability =  11.92 , true =  7 , accuracy =  0.00
+ID =  365 , predicted =  2 , probability =  8.18 , true =  7 , accuracy =  0.00
+ID =  366 , predicted =  1 , probability =  12.55 , true =  7 , accuracy =  0.00
+ID =  367 , predicted =  9 , probability =  11.82 , true =  7 , accuracy =  0.00
+ID =  368 , predicted =  2 , probability =  8.18 , true =  7 , accuracy =  0.00
+ID =  369 , predicted =  9 , probability =  13.96 , true =  7 , accuracy =  0.00
+ID =  370 , predicted =  1 , probability =  12.98 , true =  7 , accuracy =  0.00
+ID =  371 , predicted =  9 , probability =  12.98 , true =  7 , accuracy =  0.00
+ID =  372 , predicted =  8 , probability =  14.80 , true =  7 , accuracy =  0.00
+ID =  373 , predicted =  9 , probability =  14.04 , true =  7 , accuracy =  0.00
+ID =  374 , predicted =  1 , probability =  13.51 , true =  7 , accuracy =  0.00
+ID =  375 , predicted =  1 , probability =  7.88 , true =  7 , accuracy =  0.00
+ID =  376 , predicted =  9 , probability =  12.87 , true =  7 , accuracy =  0.00
+ID =  377 , predicted =  9 , probability =  14.06 , true =  7 , accuracy =  0.00
+ID =  378 , predicted =  9 , probability =  14.16 , true =  7 , accuracy =  0.00
+ID =  379 , predicted =  1 , probability =  12.22 , true =  7 , accuracy =  0.00
+ID =  380 , predicted =  9 , probability =  14.40 , true =  7 , accuracy =  0.00
+ID =  381 , predicted =  9 , probability =  13.65 , true =  7 , accuracy =  0.00
+ID =  382 , predicted =  9 , probability =  13.98 , true =  7 , accuracy =  0.00
+ID =  383 , predicted =  9 , probability =  9.80 , true =  7 , accuracy =  0.00
+ID =  384 , predicted =  9 , probability =  12.88 , true =  7 , accuracy =  0.00
+ID =  385 , predicted =  9 , probability =  13.53 , true =  7 , accuracy =  0.00
+ID =  386 , predicted =  9 , probability =  14.31 , true =  7 , accuracy =  0.00
+ID =  387 , predicted =  8 , probability =  8.90 , true =  7 , accuracy =  0.00
+ID =  388 , predicted =  1 , probability =  7.50 , true =  7 , accuracy =  0.00
+ID =  389 , predicted =  9 , probability =  13.93 , true =  7 , accuracy =  0.00
+ID =  390 , predicted =  9 , probability =  12.81 , true =  7 , accuracy =  0.00
+ID =  391 , predicted =  9 , probability =  14.57 , true =  7 , accuracy =  0.00
+ID =  392 , predicted =  9 , probability =  10.76 , true =  7 , accuracy =  0.00
+ID =  393 , predicted =  2 , probability =  9.11 , true =  7 , accuracy =  0.00
+ID =  394 , predicted =  2 , probability =  11.06 , true =  7 , accuracy =  0.00
+ID =  395 , predicted =  2 , probability =  -21.12 , true =  7 , accuracy =  0.00
+ID =  396 , predicted =  9 , probability =  14.21 , true =  7 , accuracy =  0.00
+ID =  397 , predicted =  9 , probability =  13.78 , true =  7 , accuracy =  0.00
+ID =  398 , predicted =  7 , probability =  -51.00 , true =  7 , accuracy =  1.00
+ID =  399 , predicted =  9 , probability =  14.32 , true =  7 , accuracy =  0.00
+ID =  400 , predicted =  1 , probability =  11.48 , true =  7 , accuracy =  0.00
+ID =  401 , predicted =  1 , probability =  12.36 , true =  7 , accuracy =  0.00
+ID =  402 , predicted =  9 , probability =  13.62 , true =  7 , accuracy =  0.00
+ID =  403 , predicted =  2 , probability =  9.24 , true =  7 , accuracy =  0.00
+ID =  404 , predicted =  9 , probability =  14.38 , true =  7 , accuracy =  0.00
+ID =  405 , predicted =  2 , probability =  10.93 , true =  7 , accuracy =  0.00
+ID =  406 , predicted =  9 , probability =  14.09 , true =  7 , accuracy =  0.00
+ID =  407 , predicted =  1 , probability =  14.07 , true =  7 , accuracy =  0.00
+ID =  408 , predicted =  9 , probability =  13.87 , true =  7 , accuracy =  0.00
+ID =  409 , predicted =  9 , probability =  13.92 , true =  7 , accuracy =  0.00
+ID =  410 , predicted =  9 , probability =  11.35 , true =  7 , accuracy =  0.00
+ID =  411 , predicted =  9 , probability =  12.73 , true =  7 , accuracy =  0.00
+ID =  412 , predicted =  9 , probability =  13.11 , true =  7 , accuracy =  0.00
+ID =  413 , predicted =  9 , probability =  12.97 , true =  7 , accuracy =  0.00
+ID =  414 , predicted =  9 , probability =  12.69 , true =  7 , accuracy =  0.00
+ID =  415 , predicted =  9 , probability =  13.10 , true =  7 , accuracy =  0.00
+ID =  416 , predicted =  9 , probability =  8.35 , true =  7 , accuracy =  0.00
+ID =  417 , predicted =  2 , probability =  8.62 , true =  7 , accuracy =  0.00
+ID =  418 , predicted =  2 , probability =  9.24 , true =  7 , accuracy =  0.00
+ID =  419 , predicted =  9 , probability =  12.46 , true =  7 , accuracy =  0.00
+ID =  420 , predicted =  9 , probability =  11.28 , true =  7 , accuracy =  0.00
+ID =  421 , predicted =  9 , probability =  11.55 , true =  7 , accuracy =  0.00
+ID =  422 , predicted =  2 , probability =  -20.53 , true =  7 , accuracy =  0.00
+ID =  423 , predicted =  1 , probability =  13.02 , true =  7 , accuracy =  0.00
+ID =  424 , predicted =  2 , probability =  6.09 , true =  7 , accuracy =  0.00
+ID =  425 , predicted =  9 , probability =  13.70 , true =  7 , accuracy =  0.00
+ID =  426 , predicted =  1 , probability =  11.12 , true =  7 , accuracy =  0.00
+ID =  427 , predicted =  1 , probability =  12.45 , true =  7 , accuracy =  0.00
+ID =  428 , predicted =  9 , probability =  13.71 , true =  7 , accuracy =  0.00
+ID =  429 , predicted =  9 , probability =  12.69 , true =  7 , accuracy =  0.00
+ID =  430 , predicted =  9 , probability =  14.19 , true =  7 , accuracy =  0.00
+ID =  431 , predicted =  2 , probability =  7.46 , true =  7 , accuracy =  0.00
+ID =  432 , predicted =  9 , probability =  13.98 , true =  7 , accuracy =  0.00
+ID =  433 , predicted =  9 , probability =  14.54 , true =  7 , accuracy =  0.00
+ID =  434 , predicted =  9 , probability =  13.05 , true =  7 , accuracy =  0.00
+ID =  435 , predicted =  9 , probability =  14.05 , true =  7 , accuracy =  0.00
+ID =  436 , predicted =  2 , probability =  12.02 , true =  7 , accuracy =  0.00
+ID =  437 , predicted =  1 , probability =  12.30 , true =  7 , accuracy =  0.00
+ID =  438 , predicted =  2 , probability =  11.12 , true =  7 , accuracy =  0.00
+ID =  439 , predicted =  9 , probability =  13.55 , true =  7 , accuracy =  0.00
+ID =  440 , predicted =  9 , probability =  12.12 , true =  7 , accuracy =  0.00
+ID =  441 , predicted =  9 , probability =  12.96 , true =  7 , accuracy =  0.00
+ID =  442 , predicted =  9 , probability =  12.72 , true =  7 , accuracy =  0.00
+ID =  443 , predicted =  1 , probability =  9.81 , true =  7 , accuracy =  0.00
+ID =  444 , predicted =  9 , probability =  9.31 , true =  7 , accuracy =  0.00
+ID =  445 , predicted =  2 , probability =  4.89 , true =  7 , accuracy =  0.00
+ID =  446 , predicted =  1 , probability =  13.52 , true =  7 , accuracy =  0.00
+ID =  447 , predicted =  9 , probability =  14.36 , true =  7 , accuracy =  0.00
+ID =  448 , predicted =  9 , probability =  14.08 , true =  7 , accuracy =  0.00
+ID =  449 , predicted =  7 , probability =  7.77 , true =  7 , accuracy =  1.00
+ID =  450 , predicted =  2 , probability =  11.04 , true =  7 , accuracy =  0.00
+ID =  451 , predicted =  1 , probability =  12.93 , true =  7 , accuracy =  0.00
+ID =  452 , predicted =  9 , probability =  13.97 , true =  7 , accuracy =  0.00
+ID =  453 , predicted =  2 , probability =  11.86 , true =  7 , accuracy =  0.00
+ID =  454 , predicted =  9 , probability =  12.36 , true =  7 , accuracy =  0.00
+ID =  455 , predicted =  2 , probability =  11.67 , true =  7 , accuracy =  0.00
+ID =  456 , predicted =  9 , probability =  12.22 , true =  7 , accuracy =  0.00
+ID =  457 , predicted =  8 , probability =  13.78 , true =  8 , accuracy =  1.00
+ID =  458 , predicted =  8 , probability =  14.72 , true =  8 , accuracy =  1.00
+ID =  459 , predicted =  8 , probability =  15.67 , true =  8 , accuracy =  1.00
+ID =  460 , predicted =  4 , probability =  13.08 , true =  8 , accuracy =  0.00
+ID =  461 , predicted =  8 , probability =  12.45 , true =  8 , accuracy =  1.00
+ID =  462 , predicted =  4 , probability =  13.19 , true =  8 , accuracy =  0.00
+ID =  463 , predicted =  1 , probability =  10.14 , true =  8 , accuracy =  0.00
+ID =  464 , predicted =  9 , probability =  14.29 , true =  8 , accuracy =  0.00
+ID =  465 , predicted =  8 , probability =  15.23 , true =  8 , accuracy =  1.00
+ID =  466 , predicted =  8 , probability =  14.83 , true =  8 , accuracy =  1.00
+ID =  467 , predicted =  8 , probability =  14.66 , true =  8 , accuracy =  1.00
+ID =  468 , predicted =  8 , probability =  16.16 , true =  8 , accuracy =  1.00
+ID =  469 , predicted =  8 , probability =  15.60 , true =  8 , accuracy =  1.00
+ID =  470 , predicted =  9 , probability =  13.76 , true =  9 , accuracy =  1.00
+ID =  471 , predicted =  9 , probability =  14.53 , true =  9 , accuracy =  1.00
+ID =  472 , predicted =  5 , probability =  12.82 , true =  9 , accuracy =  0.00
+ID =  473 , predicted =  9 , probability =  13.69 , true =  9 , accuracy =  1.00
+ID =  474 , predicted =  3 , probability =  10.94 , true =  9 , accuracy =  0.00
+ID =  475 , predicted =  1 , probability =  13.04 , true =  9 , accuracy =  0.00
+ID =  476 , predicted =  3 , probability =  5.03 , true =  9 , accuracy =  0.00
+ID =  477 , predicted =  8 , probability =  14.01 , true =  9 , accuracy =  0.00
+ID =  478 , predicted =  3 , probability =  12.47 , true =  9 , accuracy =  0.00
+ID =  479 , predicted =  1 , probability =  11.09 , true =  9 , accuracy =  0.00
+ID =  480 , predicted =  4 , probability =  9.93 , true =  9 , accuracy =  0.00
+ID =  481 , predicted =  3 , probability =  12.81 , true =  9 , accuracy =  0.00
+ID =  482 , predicted =  5 , probability =  11.80 , true =  9 , accuracy =  0.00
+ID =  483 , predicted =  9 , probability =  13.02 , true =  9 , accuracy =  1.00
+ID =  484 , predicted =  10 , probability =  -10.75 , true =  10 , accuracy =  1.00
+
+classification accuracy = 0.3430

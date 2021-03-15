@@ -1,0 +1,56 @@
+y_temp0[idx] = np.argmax(self.output_nodes)
+return y_temp0.astype(int)
+
+accu_tally2 = np.where(y_vtemp == valid_Y, 1, 0)
+acc_valid[i+1] = 100*np.average(accu_tally2)
+
+t_k = np.zeros((target.shape[0], 10))
+t_k[:,0] = np.array([0.9 if i == 0 else 0.1 for i in target])
+...
+
+
+
+
+
+
+---------------------------------------------
+
+# for part 2, create new test datasets that are 1/2 and 1/4 the size of the original
+
+#m_tally = np.zeros(10)
+m_tally2 = np.zeros(10)
+m_tally4 = np.zeros(10)
+#for idx, x_i in enumerate(m_array):
+#    val = x_i[0]
+#    m_tally[val] += 1
+m_tally = np.array([5923,6742,5958,6131,5842,5421,5918,6265,5851,5949])
+
+np.random.shuffle(m_array)
+m_array2 = m_array[0:30000]
+np.random.shuffle(m_array2) # shuffle the dataset before processing
+
+'''
+m_temp = np.sort(m_array, axis=0)
+# returns a matrix with every other row of m_temp deleted
+# list(range(0, m_temp.shape[0], 2)) = every other element from row 0 to the last row
+m_array2 = np.delete(m_temp, list(range(0, m_temp.shape[0], 2)), axis=0)
+'''
+
+np.random.shuffle(m_array)
+m_array4 = m_array[0:15000]
+np.random.shuffle(m_array4) # shuffle the dataset before processing
+
+'''
+m_temp2 = np.sort(m_array2, axis=0)
+# returns a matrix with every other row of m_temp deleted
+# list(range(0, m_temp2.shape[0], 2)) = every other element from row 0 to the last row
+m_array4 = np.delete(m_temp2, list(range(0, m_temp2.shape[0], 2)), axis=0)
+'''
+
+# verify that training dataset was divided into 1/2 and 1/4 correctly
+unique, counts = np.unique(m_array[:,0], return_counts=True)
+print(dict(zip(unique, counts)))
+unique2, counts2 = np.unique(m_array2[:,0], return_counts=True)
+print(dict(zip(unique2, counts2)))
+unique4, counts4 = np.unique(m_array4[:,0], return_counts=True)
+print(dict(zip(unique4, counts4)))

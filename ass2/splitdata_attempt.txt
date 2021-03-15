@@ -1,0 +1,21 @@
+m_array2 = np.zeros((1,785), dtype=int)
+m_array4 = np.zeros((1,785), dtype=int)
+
+for idx, x_i in enumerate(m_array):
+    # get first element in row (corresponds to 'answer key' for data sample)
+    temp = x_i[0]
+    # add row to m_array2 and m_array4 if # of samples threshold for digit hasn't been reached yet
+    if ((m_tally4[temp] < m_thresh4[temp]) & (m_tally2[temp] < m_thresh2[temp])):
+        np.concatenate(m_array2, x_i)
+        m_tally2[temp] += 1
+        np.concatenate(m_array4, x_i)
+        m_tally4[temp] += 1
+    # add row to m_array2 only, if # of samples threshold for digit has been reached for m_array4
+    elif (m_tally2[temp] < m_thresh2[temp]):
+        np.concatenate(m_array2, x_i)
+        m_tally2[temp] += 1
+    # stop when m_array2 has been filled and the # of samples has been reached for all digits
+    # this occurs when the m_tally2 and m_thresh2 arrays are equivalent
+    elif (np.array_equal(m_tally2, m_thresh2)):
+        break
+		
