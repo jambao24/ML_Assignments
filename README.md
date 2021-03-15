@@ -4,7 +4,7 @@ CS455/545 Summer 2020- Machine Learning assignments
 
 
 ASSIGNMENT 1- Perceptrons.
-You will train 10 perceptrons that will, as a group, learn to classify the handwritten digits in the MNIST dataset. See the class slides for details of the perceptron architecture and perceptron learning algorithm. Each perceptron will have 785 inputs and one output. Each perceptron’s target is one of the 10 digits, 0−9.
+You will train 10 perceptrons that will, as a group, learn to classify the handwritten digits in the MNIST dataset (Training: https://drive.google.com/file/d/1d5R0VJz42RNdEkp-Iv_0bpyeap8RhlFU/view?usp=sharing, Validation: https://drive.google.com/file/d/1vX5PlDc9ASivqbBsXCTM1e8RaHOJXA0b/view?usp=sharing). See the class slides for details of the perceptron architecture and perceptron learning algorithm. Each perceptron will have 785 inputs and one output. Each perceptron’s target is one of the 10 digits, 0−9.
 
 
 ASSIGNMENT 2- Neural Network.
